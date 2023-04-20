@@ -45,6 +45,11 @@ assign sum = (a^b);
 assign carry = (a&b);
 endmodule
 
+
+
+
+
+
 Full Adder:
 module sub (a,b,c,sum,carry);
 input a,b,c;
@@ -81,6 +86,9 @@ Half Adder:
 ![Screenshot (308)](https://user-images.githubusercontent.com/119657657/233272108-62ca696c-d38a-4fb5-98c4-4675baeaf15e.png)
 Full Adder:
 ![Screenshot (311)](https://user-images.githubusercontent.com/119657657/233272247-2d7166f8-ec26-47ee-b9f1-c9e782673e46.png)
+
+
+
 
 
 ### TRUTH TABLE 
