@@ -91,6 +91,13 @@ Full Adder:
 
 
 
+
+
+
+
+
+
+
 ### TRUTH TABLE 
 Half Adder:
 
